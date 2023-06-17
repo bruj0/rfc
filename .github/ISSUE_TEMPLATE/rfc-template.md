@@ -24,21 +24,22 @@ One paragraph explanation of the topic to discuss.
 
 ## Motivation or Why
 
-* Why are we doing this?
+* Why are we discussing this?
 * What use cases does it support? 
 
 
 ## Assumptions and Goals
 
 * What are the assumptions in which we are basing our degisn?
-* What is the expected outcome?
+* What is the expected outcome or goals?
 * What are not goals of this RFC?
 
 ## Design
 
-This is the bulk of the RFC. Explain the design in enough detail for somebody familiar
-with the network to understand, and for somebody familiar with the code practices to implement.
-This should get into specifics and corner-cases, and include examples of how the feature is used.
+This is the bulk of the RFC. 
+Explain the design in enough detail so that:
+* Somebody familiar with the topic can understand 
+* Somebody familiar with the code practices can implement.
 
 ## Drawbacks
 
