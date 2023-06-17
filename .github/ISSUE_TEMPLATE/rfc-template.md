@@ -13,20 +13,20 @@ assignees: ''
 - Type: (new feature, enhancement)
 - Related components: (if any)
 - Start Date: (fill me in with today's date, DD-MM-YYYY)
-- Discussion: (fill me in with link to RFC discussion - shepherd will complete this) 
-- Supersedes: (fill me in with a link to RFC this supersedes - if applicable)
-- Superseded by: (fill me in with a link to RFC this is superseded by - if applicable)
+- Version: 1.0.0
 
 ## Summary
 
-One paragraph explanation of the feature.
+One paragraph explanation of the topic to discuss.
 
 ## Conventions
 - The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](http://tools.ietf.org/html/rfc2119).
 
 ## Motivation
 
-Why are we doing this? What use cases does it support? What is the expected outcome?
+* Why are we doing this?
+* What use cases does it support? 
+* What is the expected outcome?
 
 ## Detailed design
 
