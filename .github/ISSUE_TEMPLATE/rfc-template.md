@@ -24,8 +24,8 @@ One paragraph explanation of the topic to discuss.
 
 ## Problem Description
 
-* Why are we discussing this?
-* What use cases does it support? 
+### Why are we discussing this?
+### What use cases does it support? 
 
 
 ## Scope and Assumptions
@@ -37,6 +37,9 @@ One paragraph explanation of the topic to discuss.
 
 ## Design
 
+### Benefits by Implementing this RFC
+
+### Other technical details
 This is the bulk of the RFC. 
 Explain the design in enough detail so that:
 * Somebody familiar with the topic can understand 
