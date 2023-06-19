@@ -9,7 +9,7 @@ assignees: ''
 
 # Title-cased Name of the Topic
 
-- Status: proposed ("proposed", "agreed", "active", "implemented" or "rejected")
+- Status: proposed ("Draft", "Agreed", "Active", "Implemented" or "Archived")
 - Type: (new system, new feature, enhancement)
 - Related components: (if any)
 - Start Date: (fill me in with today's date, DD-MM-YYYY)
@@ -22,17 +22,18 @@ One paragraph explanation of the topic to discuss.
 ## Conventions
 - The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](http://tools.ietf.org/html/rfc2119).
 
-## Motivation or Why
+## Problem Description
 
 * Why are we discussing this?
 * What use cases does it support? 
 
 
-## Assumptions and Goals
+## Scope and Assumptions
 
 * What are the assumptions in which we are basing our degisn?
 * What is the expected outcome or goals?
-* What are not goals of this RFC?
+* What are not goals of this RFC? (if applicable)
+* What is the Scope of the design? (If applicable)
 
 ## Design
 
